@@ -1,0 +1,5 @@
+point_id,X_mm,Y_mm,Z_mm
+body,-30,-25,820
+head,10,-24,820
+foot_L,-28,18,830
+foot_R,10,18,830

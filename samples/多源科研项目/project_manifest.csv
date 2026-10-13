@@ -1,0 +1,7 @@
+experiment_id,condition,sample_id,trajectory_file,video_file,seed_file,force_file,image_file,signal_file,measurement_file,param_frequency_hz
+E01,Group_A,A01,,record_1/video.avi,record_1/anchors.csv,record_1/force.csv,record_1/image.png,record_1/signal.csv,record_1/measurement.csv,10
+E02,Group_A,A02,record_2/trajectory.csv,,,record_2/force.csv,record_2/image.png,record_2/signal.csv,record_2/measurement.csv,15
+E03,Group_A,A03,record_3/trajectory.csv,,,record_3/force.csv,record_3/image.png,record_3/signal.csv,record_3/measurement.csv,20
+E04,Group_B,B01,record_4/trajectory.csv,,,record_4/force.csv,record_4/image.png,record_4/signal.csv,record_4/measurement.csv,25
+E05,Group_B,B02,record_5/trajectory.csv,,,record_5/force.csv,record_5/image.png,record_5/signal.csv,record_5/measurement.csv,30
+E06,Group_B,B03,record_6/trajectory.csv,,,record_6/force.csv,record_6/image.png,record_6/signal.csv,record_6/measurement.csv,35
